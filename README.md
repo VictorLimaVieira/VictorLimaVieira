@@ -4,9 +4,9 @@ Desenvolvedor Full Stack & Pesquisador Acadêmico em Computação. Atualmente cu
 
 ### 🚀 Sobre Mim
 - 🎓 **Graduação:** Cursando ADS (Conclusão em 2027).
-- 🔬 **Pesquisa:** Otimização de Arquiteturas de Hardware e Computação Aproximada (LAx).
-- 🏆 **Destaque:** Menção Honrosa na conferência CASSW.
-- 💻 **Foco:** Backend com **Nest.js**, **TypeScript** e **Node.js**.
+- 🔬 **Pesquisa:** Otimização de Arquiteturas de Hardware e Computação Aproximada no laboratório LAx.
+- 🏆 **Destaque:** Recebi Menção Honrosa na conferência CASSW pelo meu trabalho acadêmico.
+- 💻 **Foco Atual:** Backend com **Nest.js**, **TypeScript** e **Node.js**.
 
 ---
 
@@ -31,16 +31,17 @@ Desenvolvedor Full Stack & Pesquisador Acadêmico em Computação. Atualmente cu
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" title="MATLAB" />
-  <img src="https://img.shields.io/badge/VHDL-333333?style=flat&logo=target&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/VHDL-333333?style=flat&logo=target&logoColor=white" height="40" title="VHDL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" title="Pandas" />
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Atividade no GitHub
+
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorLimaVieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorLimaVieira&layout=compact&langs_count=7&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorLimaVieira&theme=dracula" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=VictorLimaVieira&theme=dracula" width="300" />
 </p>
 
 ### 📫 Contato:
