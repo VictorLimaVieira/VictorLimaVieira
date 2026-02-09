@@ -31,7 +31,7 @@ Desenvolvedor Full Stack & Pesquisador Acadêmico em Computação. Atualmente cu
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" title="MATLAB" />
-  <img src="https://raw.githubusercontent.com/github/explore/master/topics/vhdl/vhdl.png" width="40" title="VHDL" />
+  <img src="https://img.shields.io/badge/VHDL-333333?style=flat&logo=target&logoColor=white" height="40" title="VHDL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" title="Pandas" />
 </p>
 
