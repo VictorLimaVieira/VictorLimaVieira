@@ -4,7 +4,7 @@ Desenvolvedor Full Stack & Pesquisador Acadêmico em Computação. Atualmente cu
 
 ### 🚀 Sobre Mim
 - 🎓 **Graduação:** Cursando ADS (Conclusão em 2027).
-- 🔬 **Pesquisa:** Otimização de Arquiteturas de Hardware e Computação Aproximada no laboratório LAx.
+- 🔬 **Pesquisa:** Otimização de Arquiteturas de Hardware e Projeto Idoso Conectado com aplicação Full-Stack em TS e React.
 - 🏆 **Destaque:** Recebi Menção Honrosa na conferência CASSW pelo meu trabalho acadêmico.
 - 💻 **Foco Atual:** Backend com **Nest.js**, **TypeScript** e **Node.js**.
 
