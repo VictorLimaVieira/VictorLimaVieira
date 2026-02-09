@@ -39,5 +39,6 @@ Desenvolvedor Full Stack & Pesquisador Acadêmico em Computação. Atualmente cu
 
 ### 📈 Estatísticas do GitHub
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor-lvieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-lvieira&layout=compact&langs_count=7&theme=dracula" />
+</p>
