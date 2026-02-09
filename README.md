@@ -40,8 +40,11 @@ Desenvolvedor Full Stack & Pesquisador Acadêmico em Computação. Atualmente cu
 ### 📊 Atividade no GitHub
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorLimaVieira&theme=dracula" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=VictorLimaVieira&theme=dracula" width="300" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorLimaVieira&theme=dracula" width="450" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=VictorLimaVieira&theme=dracula" width="450" />
 </p>
 
 ### 📫 Contato:
